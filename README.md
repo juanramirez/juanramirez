@@ -33,7 +33,7 @@ Still to be done. Ideally, I plan it to have both desktop and mobile web clients
 
 Theoretically, a similar approach could be used to organize on-duty days in any kind of professional service which require someone to be always on-duty.
 
-For the moment, it's **only a command-line application**, but in the future I expect to have some time to build a client-server web application around it, both for desktop and mobile devices if possible.
+For the moment, it's functional but it's **only a command-line application**. In the future I expect to have some time and energy to build a client-server web application around it (both for desktop and mobile devices, if possible).
 
 Check out the [GitHub repo page](https://github.com/juanramirez/on-duty). Please take into account that documentation is also _in progress_.
 
@@ -44,7 +44,7 @@ Check out the [GitHub repo page](https://github.com/juanramirez/on-duty). Please
 
 It's intended to take a GPX or TCX file from a route and a _reference pace_ (which would be the pace you are comfortable running to in a flat course of the same distance). Taking those data into account, HillPace can estimate planned paces by segments, based on configurable external factors like the climb grade of each segment.
 
-The same as [DoctorPlan](#On-duty-organizer), for the moment HillPace it's **only a command-line application**. In the future, I'd like to integrate it into a web application, where one could enter those inputs, generate a plan for the race and export it to a running smartwatch.
+The same as [DoctorPlan](#On-duty-organizer), for the moment HillPace it's **only a command-line application** (but it's functional!). In the future, I'd like to integrate it into a web application, where one could enter those inputs, generate a plan for the race and export it to a running smartwatch.
 
 **HillPace** is a Ruby gem [available in Rubygems.org](https://rubygems.org/gems/hillpace).
 
