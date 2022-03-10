@@ -1,7 +1,7 @@
 # Hi there! 👋
 <img src="https://juanramirez.github.io/assets/images/posts/hello-and-welcome.jpg" alt="Welcome" width="600"/>
 <br/>
-I'm Juan Ramírez, a software engineer working at <a href="http://www.telefonica.com">Telefonica</a>. If you want to know more about me and my life, I invite you to check out <a href="https://juanramirez.github.io/posts/">my personal blog</a> (spoiler: it's worth reading :wink:).
+I'm Juan Ramírez, a software engineer working at <a href="http://www.telefonica.com">Telefonica</a>. If you want to know more about me and my life, I invite you to check out <a href="https://juanramirez.github.io/posts/">my blog</a> (spoiler: it's worth reading :wink:).
 
 ## Featured personal projects
 <br/>
