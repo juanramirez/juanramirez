@@ -27,7 +27,7 @@ Neurolink-server is being built using Javascript, on top of [ExpressJS](https://
 Still to be done. Ideally, I plan it to have both desktop and mobile web clients. This would allow using it as a standalone webpage or modelling webviews for mobile applications, for example.
 
 
-### <img src="https://juanramirez.github.io/assets/images/projects/doctorplan/logo.png" alt="DoctorPlan" width="50"/> On-duty-organizer
+### <img src="https://juanramirez.github.io/assets/images/projects/doctorplan/logo-dark.png" alt="DoctorPlan" width="50"/> On-duty-organizer
 
 **On-duty organizer** (a.k.a. "**DoctorPlan**") is an open-source on-duty schedule organizer for hospital services made using NodeJS. I started it in 2017, when I saw that on-duty days organization consumed my wife (and also the rest of the doctors of the paediatric service in the hospital) a lot of time, energy and discussions. I thought that this problem was ideal to be solved using [evolutionary algorithms](https://en.wikipedia.org/wiki/Evolutionary_algorithm), which had strongly called my attention when I studied them in the career. Hence, *DoctorPlan* takes into account doctor preferences, mandatory medical consultations and similar factors to organize on-duty days assignation for a hospital service using evolutionary algorithms, and generates the best solution it can.
 
