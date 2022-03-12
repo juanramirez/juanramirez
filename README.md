@@ -5,6 +5,7 @@ I'm Juan Ramírez, a software engineer working at <a href="http://www.telefonica
 
 ## Featured personal projects
 <br/>
+
 ### <img src="https://juanramirez.github.io/assets/images/projects/neurolink/logo.png" alt="NeuroLink" width="50"/> Neurolink
 
 **Neurolink** is a project conceived at first as a personal rehab exercise after suffering a [brain tumor removal surgery](/abi/how-it-all-started/) in March 2020, and consequently _brain injury_ (also called [ABI](https://en.wikipedia.org/wiki/Acquired_brain_injury)); but it's also intended to help other people who can suffer this kind of experiences, now or in the future.
