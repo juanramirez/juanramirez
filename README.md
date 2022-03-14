@@ -7,9 +7,9 @@ I'm Juan Ramírez, a software engineer working at <a href="http://www.telefonica
 * A _development blog_ (I write there about what's the motivation for some of the projects I have here).
 
 Spoiler: it's worth reading :wink:.
-
-## Featured personal projects
 <br/>
+<br/>
+## Featured personal projects
 
 ### <img src="https://juanramirez.github.io/assets/images/projects/neurolink/logo.png" alt="NeuroLink" width="50"/> Neurolink
 
