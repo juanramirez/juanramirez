@@ -57,4 +57,4 @@ Check out the installation guide, the user guide and the examples of use [on the
 
 ---
 
-(BTW, if you're wondering how to have a markdown file as your homepage, try to create a new repo and name it with your username 😉)
+(BTW, if you're wondering how to have a markdown file like this one as your homepage, try to create a new repo and name it with your username 😉)
